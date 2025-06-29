@@ -1,0 +1,8 @@
+{
+  "name": "rizkraf-space",
+  // Update to today's date
+  "compatibility_date": "2025-06-29",
+  "assets": {
+    "directory": "./dist"
+  }
+}
